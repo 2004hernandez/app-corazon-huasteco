@@ -15,7 +15,7 @@ El sistema busca ofrecer a los clientes una experiencia digital completa para ex
 - [GitHub](https://github.com/) – Plataforma de repositorios remotos.  
 - Estrategia de ramas: **Git Flow** para mantener un flujo ordenado.  
 
-## 🎯 Objetivo del proyecto  
+## Objetivo del proyecto  
 Brindar a los clientes de la vinatería una plataforma digital confiable y moderna para realizar compras en línea, mientras que los administradores pueden gestionar productos, usuarios, promociones y pedidos de manera eficiente.  
 
 ## Configuración del proyecto  
