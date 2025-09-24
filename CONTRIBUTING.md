@@ -1,11 +1,9 @@
-# 📌 Guía de contribución – Vinatería Corazón Huasteco
+# Guía de contribución – Vinatería Corazón Huasteco
 
 Gracias por colaborar en el desarrollo del **sitio web de comercio electrónico de la Vinatería Corazón Huasteco**.  
 Este documento establece las normas y buenas prácticas que deben seguirse para mantener un proyecto ordenado y de calidad.
 
----
-
-## 🚀 Flujo de trabajo (Git Flow)
+## Flujo de trabajo (Git Flow)
 
 - **main** → Código estable, listo para producción.
 - **develop** → Rama de integración de nuevas funcionalidades.
@@ -14,9 +12,7 @@ Este documento establece las normas y buenas prácticas que deben seguirse para 
 - **bugfix/** → Correcciones durante el desarrollo.
 - **hotfix/** → Correcciones urgentes en producción.
 
----
-
-## 📝 Convención de commits
+## Convención de commits
 
 Se recomienda usar **Conventional Commits**:
 
@@ -26,3 +22,4 @@ Se recomienda usar **Conventional Commits**:
 - `style:` → Cambios de formato o estilos (no funcionales).  
 - `refactor:` → Reestructuración de código sin cambiar su comportamiento.  
 - `test:` → Adición o modificación de pruebas.  
+
